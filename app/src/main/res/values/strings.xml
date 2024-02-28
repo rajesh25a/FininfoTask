@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FinInfoSoft</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="register_btn">Register</string>
+    <string name="login_btn">Login</string>
+    <string name="click_to_login">Login Now</string>
+    <string name="register_now">Don"'t have an Account? Sign up </string>
+    <string name="logout">Logout</string>
+</resources>
